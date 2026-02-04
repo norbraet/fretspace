@@ -1,1 +1,1 @@
-# fretspace
+# Fretscale
